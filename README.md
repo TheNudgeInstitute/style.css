@@ -6,7 +6,7 @@ This repository contains a collection of CSS presets to help you quickly style y
 
 ## Purpose
 
-The project takes the [style guide](https://example.com/2022-the_nudge.pdf) provided by Nudge and creates CSS for it so we can use it in custom websites we create. This ensures consistency across all web projects and adheres to the design principles set by Nudge.
+The project takes the [style guide](/2022%20-%20The_Nudge%20Institute%20Brand%20Guidelines.pdf) provided by Nudge and creates CSS for it so we can use it in custom websites we create. This ensures consistency across all web projects and adheres to the design principles set by Nudge.
 
 ## Installation
 
