@@ -22,3 +22,11 @@ To use the CSS file hosted on GitHub, link it directly in your HTML file using t
 ## Contributors
 
 Created by [Mik](https://github.com/Mik1337)
+
+## Logos
+
+The logos can be found in the folders corresponding to programs and initiatives. The logos are available PNG formats.
+
+## Contributors
+
+Created by [Mik](https://github.com/Mik1337)
