@@ -15,7 +15,7 @@ To use the CSS file hosted on GitHub, link it directly in your HTML file using t
 ```html
 <link
   rel="stylesheet"
-  href="https://raw.githubusercontent.com/TheNudgeInstitute/style.css/refs/heads/main/style.min.css"
+  href="https://cdn.jsdelivr.net/gh/TheNudgeInstitute/style.css@latest/style.min.css"
 />
 ```
 
